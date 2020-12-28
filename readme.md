@@ -1,6 +1,7 @@
+## React Image Fallbacks
 ### Installation
 ```javascript
-npm install react-img-fallback
+npm install react-img-fallbacks
 ```
 
 ### PropTypes

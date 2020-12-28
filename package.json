@@ -1,5 +1,5 @@
 {
-  "name": "react-img-fallback",
+  "name": "react-img-fallbacks",
   "version": "1.0.0",
   "description": "React image fallback component",
   "main": "dist/react-img-fallback.js",
